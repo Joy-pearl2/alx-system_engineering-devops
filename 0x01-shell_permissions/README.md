@@ -1,1 +1,1 @@
-script that switches the current user betty
+create a script that switches the current user to betty
