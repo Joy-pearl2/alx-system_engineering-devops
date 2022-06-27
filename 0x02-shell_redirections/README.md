@@ -1,1 +1,1 @@
-wite a scrit that prints hello world
+write a script that prints hello_world
